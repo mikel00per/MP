@@ -1,0 +1,3 @@
+imagenes/giotexto_txt.pgm
+imagenes/grises.txt
+gioacsii
